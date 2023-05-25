@@ -1,7 +1,7 @@
 <h1>Calculadora Android</h1>
 <h2>Aplicación Android con la funcionalidad de una sencilla calculadora</h2>
 
-<p>Un pequeño proyecto basado en la funcionalidad de una calculadora sencilla. Puedes descargar el apk de la tienda <b>Google Play</b> o en <a target="_blank" href="https://play.google.com/store/apps/details?id=com.mapasgoogle.javi.calculator">este link</a>.</p>
+<p>Un pequeño proyecto basado en la funcionalidad de una calculadora sencilla.</p>
 <p>Puede realizar cualquiera de las operaciones sencillas que realiza una calculadora: </p>
 <ul>
   <li>Sumas.</li>
